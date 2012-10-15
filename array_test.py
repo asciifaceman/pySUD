@@ -1,6 +1,10 @@
 #
 '''
 Array test in python
+
+
+
+THIS HAS BEEN DEPRECATED IN FAVOR OF TAKING A GRAPH LIST APPROACH
 '''
 
 
